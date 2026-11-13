@@ -1,4 +1,4 @@
-# Nithin Pradeep Nadayil Kizhakkethil
+# Nithin Pradeep
 
 MSc Electromobility (ACES) student at FAU Erlangen-Nürnberg, working on machine learning for power system protection. Previously data engineering at Mercedes-Benz AG.
 
@@ -26,4 +26,4 @@ I'm looking for ML Engineering, Data Engineering and applied AI roles in energy 
 
 ## Contact
 
-[LinkedIn](ADD-YOUR-LINKEDIN-URL)
+[LinkedIn](https://www.linkedin.com/in/nithinpradeepn/)
