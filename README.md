@@ -1,31 +1,29 @@
 # Nithin Pradeep Nadayil Kizhakkethil
 
-MSc Electromobility (ACES) at FAU Erlangen-Nürnberg. I build ML systems for power grids, with a focus on fault detection that still works when conditions change.
+MSc Electromobility (ACES) student at FAU Erlangen-Nürnberg, working on machine learning for power system protection. Previously data engineering at Mercedes-Benz AG.
+
+I'm looking for ML Engineering, Data Engineering and applied AI roles in energy and industrial systems, based in Germany.
 
 ## Research
-- **Paper accepted at IEEE PESS 2026:** why ML-based fault detectors fail to generalize across relay locations, evaluated on a 110 kV three-bus EMT simulation. Code: [understanding-cross-relay-generalization](https://github.com/nithinppn/understanding-cross-relay-generalization)
-- **MSc thesis (in progress, FAU Pattern Recognition Lab):** domain-adversarial deep learning for relay-generalizable fault detection. Code is in a private university repository.
 
-## Other projects
+**Why ML fault detectors fail when moved between relays.** A fault detector trained at one relay and applied at another keeps almost the same F1 (0.730 within-relay vs. 0.734 cross-relay), but its false-positive rate rises from 0.088 to 0.341. My thesis builds on this with domain-adversarial learning for generalization across relay locations, on a 110 kV EMT simulation dataset.
+
+- Paper: [Characterizing Cross-Relay Generalization Failure in ML-Based Power System Protection](https://arxiv.org/abs/2610.28348) (arXiv:2610.28348)
+- Code: [understanding-cross-relay-generalization](https://github.com/nithinppn/understanding-cross-relay-generalization)
+
+## Projects
+
 | Project | What it is |
 |---|---|
+| [understanding-cross-relay-generalization](https://github.com/nithinppn/understanding-cross-relay-generalization) | Code for the paper above: reproducible training and evaluation of cross-relay transfer, with configs and Slurm scripts for HPC runs. |
 | [safelane_fcw_system](https://github.com/nithinppn/safelane_fcw_system) | Camera + LiDAR forward-collision-warning prototype on KITTI: YOLO vehicle detection, LiDAR distance via calibration projection, time-to-collision estimation, and an ego-speed filter that rejects oncoming traffic. |
 
 ## Background
-- ~12 months data engineering at Mercedes-Benz AG
-- Analyst at Capgemini (SAP MM, Windchill PLM)
+
 - B.Tech Mechanical Engineering, VIT University
+- Mercedes-Benz AG: data engineering, change-management bottleneck analysis tool
+- Capgemini: analyst work on SAP MM, Windchill PLM and BOM analysis
 
-## Stack
-**ML / research:** Python, domain-adversarial learning (DANN), temporal convolutional networks, LORO cross-validation, representation probing (linear probes, MMD)
+## Contact
 
-**Data:** SQL, Dremio, Pandas, Plotly
-
-**Compute:** SLURM / HPC (FAU TinyGPU cluster), memory-mapped data pipelines
-
-**Workflow:** Git (GitLab), LaTeX / Overleaf
-
-## Looking for
-Full-time ML Engineering / Data Engineering / applied AI roles in energy, industrial, or power systems, starting late 2026.
-
-[LinkedIn](https://www.linkedin.com/in/nithinpradeepn/)
+[LinkedIn](ADD-YOUR-LINKEDIN-URL)
