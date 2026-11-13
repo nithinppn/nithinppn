@@ -9,7 +9,7 @@ MSc Electromobility (ACES) at FAU Erlangen-Nürnberg. I build ML systems for pow
 ## Other projects
 | Project | What it is |
 |---|---|
-| [safelane_fcw_system](https://github.com/nithinppn/safelane_fcw_system) | [one line: what it does and what you built] |
+| [safelane_fcw_system](https://github.com/nithinppn/safelane_fcw_system) | Camera + LiDAR forward-collision-warning prototype on KITTI: YOLO vehicle detection, LiDAR distance via calibration projection, time-to-collision estimation, and an ego-speed filter that rejects oncoming traffic. |
 
 ## Background
 - ~12 months data engineering at Mercedes-Benz AG
