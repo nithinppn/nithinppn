@@ -11,14 +11,6 @@ MSc Electromobility (ACES) at FAU Erlangen-Nürnberg. I build ML systems for pow
 |---|---|
 | [safelane_fcw_system](https://github.com/nithinppn/safelane_fcw_system) | [one line: what it does and what you built] |
 
-
-## Selected projects
-
-| Project | What it is |
-|---|---|
-| [understanding-cross-relay-generalization](https://github.com/nithinppn/understanding-cross-relay-generalization) | Analysis of why ML fault detection in power grid protection fails when moved to a different relay location. |
-| [safelane_fcw_system](https://github.com/nithinppn/safelane_fcw_system) | [one line: what it does and what you built] |
-
 ## Background
 - ~12 months data engineering at Mercedes-Benz AG
 - Analyst at Capgemini (SAP MM, Windchill PLM)
