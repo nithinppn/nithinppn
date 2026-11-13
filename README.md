@@ -2,9 +2,15 @@
 
 MSc Electromobility (ACES) at FAU Erlangen-Nürnberg. I build ML systems for power grids, with a focus on fault detection that still works when conditions change.
 
-## Currently
-- **MSc thesis:** domain-adversarial deep learning for power grid fault detection, generalizing across relay locations. Built on a 110 kV three-bus EMT simulation dataset, at the Pattern Recognition Lab (FAU).
-- **Research paper:** why ML-based fault detectors fail to generalize across relays.
+## Research
+- **Paper accepted at IEEE PESS 2026:** why ML-based fault detectors fail to generalize across relay locations, evaluated on a 110 kV three-bus EMT simulation. Code: [understanding-cross-relay-generalization](https://github.com/nithinppn/understanding-cross-relay-generalization)
+- **MSc thesis (in progress, FAU Pattern Recognition Lab):** domain-adversarial deep learning for relay-generalizable fault detection. Code is in a private university repository.
+
+## Other projects
+| Project | What it is |
+|---|---|
+| [safelane_fcw_system](https://github.com/nithinppn/safelane_fcw_system) | [one line: what it does and what you built] |
+
 
 ## Selected projects
 
