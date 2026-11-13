@@ -8,7 +8,7 @@ I'm looking for ML Engineering, Data Engineering and applied AI roles in energy 
 
 **Why ML fault detectors fail when moved between relays.** A fault detector trained at one relay and applied at another keeps almost the same F1 (0.730 within-relay vs. 0.734 cross-relay), but its false-positive rate rises from 0.088 to 0.341. My thesis builds on this with domain-adversarial learning for generalization across relay locations, on a 110 kV EMT simulation dataset.
 
-- Paper: [Characterizing Cross-Relay Generalization Failure in ML-Based Power System Protection](https://arxiv.org/abs/2610.28348) (arXiv:2610.28348)
+- Paper: [Characterizing Cross-Relay Generalization Failure in ML-Based Power System Protection](https://arxiv.org/abs/2610.28348) (arXiv:2610.28348) Accepted at IEEE PESS 2026 - Karlsruhe, DE
 - Code: [understanding-cross-relay-generalization](https://github.com/nithinppn/understanding-cross-relay-generalization)
 
 ## Projects
