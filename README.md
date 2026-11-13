@@ -20,9 +20,12 @@ MSc Electromobility (ACES) at FAU Erlangen-Nürnberg. I build ML systems for pow
 
 ## Stack
 **ML / research:** Python, domain-adversarial learning (DANN), temporal convolutional networks, LORO cross-validation, representation probing (linear probes, MMD)
+
+**Data:** SQL, Dremio, Pandas, Plotly
+
 **Compute:** SLURM / HPC (FAU TinyGPU cluster), memory-mapped data pipelines
+
 **Workflow:** Git (GitLab), LaTeX / Overleaf
-**Enterprise tools (earlier roles):** SAP MM, Windchill PLM
 
 ## Looking for
 Full-time ML Engineering / Data Engineering / applied AI roles in energy, industrial, or power systems, starting late 2026.
