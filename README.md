@@ -11,10 +11,9 @@ I'm looking for ML Engineering, Data Engineering and applied AI roles in energy 
 - Paper: [Characterizing Cross-Relay Generalization Failure in ML-Based Power System Protection](https://arxiv.org/abs/2610.28348) (arXiv:2610.28348) Accepted at IEEE PESS 2026 - Karlsruhe, DE
 - Code: [understanding-cross-relay-generalization](https://github.com/nithinppn/understanding-cross-relay-generalization)
 
-## Projects
-
 | Project | What it is |
 |---|---|
+| [grid-fault-service](https://github.com/nithinppn/grid-fault-service) | Fault classifier served as an API: FastAPI with validated input, Docker, 41 tests, GitHub Actions CI, and per-class drift monitoring that flags a simulated distribution shift (macro-F1 0.999 to 0.79). Runs on simulated data. |
 | [understanding-cross-relay-generalization](https://github.com/nithinppn/understanding-cross-relay-generalization) | Code for the paper above: reproducible training and evaluation of cross-relay transfer, with configs and Slurm scripts for HPC runs. |
 | [safelane_fcw_system](https://github.com/nithinppn/safelane_fcw_system) | Camera + LiDAR forward-collision-warning prototype on KITTI: YOLO vehicle detection, LiDAR distance via calibration projection, time-to-collision estimation, and an ego-speed filter that rejects oncoming traffic. |
 
